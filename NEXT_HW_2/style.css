@@ -1,0 +1,312 @@
+body {
+    background-color: #ffffff;
+    color: #090909;
+}
+.time {
+    position: relative;
+    left: 25px;
+    bottom: 20px;
+}
+.container {
+    display: flex;
+    width: 300px;
+    height: 40px;
+    justify-content: space-between;
+}
+.before {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    position: relative;
+    bottom: 30px;
+}
+.name {
+    display: flex;
+    align-self: center;
+    position: relative;
+    left: 20px;
+}
+.bell {
+    position: relative;
+    left: 20px;
+}
+.nerd {
+    border-radius: 50px;
+    border: 1px solid #bfbfbf;
+    align-items: center;
+}
+.topbox {
+    display: flex;
+    justify-content: space-around;
+    width: 170px;
+    align-items: flex-end;
+}
+.bottombox {
+    display: flex;
+    justify-content: space-around;
+    width: 170px;
+
+    align-items: flex-start;
+    bottom: 45px;
+    position: relative;
+}
+.profile {
+    display: flex;
+
+    position: relative;
+}
+.three {
+    position: absolute;
+    flex-direction: column;
+    justify-content: center;
+    left: 110px;
+}
+.vkffh {
+    position: relative;
+    left: 6px;
+}
+.fhdn {
+    position: relative;
+    left: 6px;
+}
+.who {
+    position: relative;
+    bottom: 10px;
+}
+.band {
+    color: rgb(13, 41, 255);
+    position: relative;
+    bottom: 35px;
+}
+.summer {
+    display: flex;
+    position: relative;
+    bottom: 60px;
+}
+.ss {
+    position: relative;
+    bottom: 10px;
+}
+
+.summe {
+    display: flex;
+    position: relative;
+    bottom: 85px;
+}
+.s {
+    position: relative;
+    bottom: 10px;
+}
+.summ {
+    display: flex;
+    position: relative;
+    bottom: 103px;
+}
+.sss {
+    position: relative;
+    bottom: 10px;
+    color: rgb(13, 41, 255);
+}
+.sum {
+    display: flex;
+    position: relative;
+    bottom: 120px;
+    justify-content: space-between;
+    width: 130px;
+}
+.ssss {
+    position: relative;
+    bottom: 13px;
+    color: rgb(0, 0, 0);
+}
+.grey {
+    color: darkgrey;
+}
+
+.pic1 {
+    border-radius: 50px;
+    border: 2px solid #ffffff;
+    position: relative;
+    z-index: 3;
+}
+.pic2 {
+    border-radius: 50px;
+    border: 2px solid #ffffff;
+    position: relative;
+    right: 10px;
+    z-index: 2;
+}
+.pic3 {
+    border-radius: 50px;
+    border: 2px solid #ffffff;
+    position: relative;
+    z-index: 1;
+    right: 20px;
+}
+.fri {
+    display: flex;
+
+    justify-content: flex-start;
+}
+.friend {
+    display: flex;
+    position: relative;
+    transform: scale(0.8);
+    transform-origin: left top;
+    bottom: 135px;
+}
+.whowho {
+    position: relative;
+    bottom: 23px;
+    right: 10px;
+}
+
+
+
+.box1 {
+    
+    padding: 0px; 
+   width: 40px;
+    
+    border-radius: 10px;
+    text-align: center; 
+    flex-grow: 4;
+    margin: 2px;
+    justify-content: center;
+
+            height: 30px;
+    
+}
+.box2 {
+    
+    padding: 0px; 
+     width: 40px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center; 
+    flex-grow: 4;
+    margin: 2px;
+}
+.box3 {
+    
+    padding: 0px; 
+   width: 40px;  
+    height: 30px;
+    border-radius: 10px;
+    text-align: center; 
+    flex-grow: 4;
+    margin: 2px;
+}
+.box4 {
+   
+    padding: 0px; 
+   
+    height: 30px;
+    border-radius: 10px;
+    text-align: center; 
+    padding: 0px;
+    flex-grow: 1;
+    margin: 2px;
+}
+
+.box {
+    display: flex;
+    width: 300px;
+    position: relative;
+    bottom: 180px;
+}
+.box1p {
+    position: relative;
+    bottom: 18px;
+}
+.box2p {
+    position: relative;
+    bottom: 18px;
+}
+.box3p {
+    position: relative;
+    bottom: 18px;
+}
+.box4p {
+    position: relative;
+    top: 8px;
+}
+.HTE {
+    border-radius: 50px;
+    border: 2px solid #dadada;
+    align-items: center;
+    position: relative;
+    bottom: 165px;
+    padding: 2px;
+}
+.cir {
+    position: relative;
+    bottom: 190px;
+    left: 13px;
+}
+.title {
+    position: relative;
+    bottom: 30px;
+}
+.icon {
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    position: relative;
+    bottom: 220px;
+}
+.ico1 {
+    position: relative;
+    left: 40px;
+}
+.ico3 {
+    position: relative;
+    right: 40px;
+}
+.bar {
+     
+            width: 100px; 
+            height: 2px; 
+            background-color: #000000; 
+         position: relative;
+    bottom: 210px;
+}
+.first {
+    display: flex;
+    position: relative;
+    bottom: 209.5px;
+    justify-content: space-between;
+    width: 301.5px;
+}
+.second {
+    display: flex;
+position: relative;
+    bottom: 209px;
+    justify-content: space-between;
+    width: 301.5px;
+}
+.header {
+  background-color: #ffffff;
+ padding: 10px;
+  position: fixed;
+  width: 301.5px;
+  z-index: 10;
+  display: flex;
+    justify-content: space-between;
+    bottom: 0; 
+    left: 0px;
+}
+
+
+
+.me {
+     border-radius: 20px;
+}
+
+
+
+
+
+
+
+

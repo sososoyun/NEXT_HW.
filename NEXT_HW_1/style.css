@@ -1,0 +1,45 @@
+body {
+    background-color: #ffffff;
+}
+a:visited {
+    color: #222;
+}
+mark {
+    color: #222;
+    background: #f7941e;
+}
+li {
+    color: rgb(0, 0, 0);
+}
+img {
+    width: 100%;
+}
+.container {
+    width: 88%;
+    color: rgb(0, 0, 0);
+    /* background-color: aliceblue; */
+    margin: 0 auto;
+    border: 10px solid #7b0808;
+    padding: 40px;
+    border-radius: 20px;
+    margin: 60px;
+}
+#contentWrapper {
+    max-width: 430px;
+
+    margin: 0 auto;
+}
+p {
+    font-size: 20px;
+    font-weight: 700;
+}
+b {
+    color: #f7941e;
+}
+h3, h4, h5 {
+    text-align: center;
+}
+.noDot {
+    list-style: none;
+    padding-top: 300px;
+}
